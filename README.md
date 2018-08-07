@@ -1,2 +1,2 @@
-# personal-site
-Files for chrismaltais.com :100:
+# Files for my personal site
+Developed with Node.JS & Gatsby
